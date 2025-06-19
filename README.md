@@ -1,4 +1,4 @@
-# `AI-Assisted Clinical Decision Making for PD Treatment Selection`
+# AI-Assisted Clinical Decision Making for PD Treatment Selection
 
 A machine learning approach to optimize Parkinson's disease treatment recommendations using artificial neural networks.
 
